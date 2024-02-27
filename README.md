@@ -15,6 +15,6 @@
 **Solution Proposed:**  
 - Used a standard approach to measure the service level in which we measured ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders monthly basis against the target service level set for each customer.
 - Created the metrics according to the metrics list.
-- Created a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
+- Created a dashboard according to the requirements provided by stakeholders in the business review meeting.
 - Created relevant insights not provided in the metric list/stakeholder meeting.
   
